@@ -3,8 +3,8 @@
 
 ## books and papers
 - [A visual intro to deep learning](https://kdimensions.gumroad.com/l/visualdl)
-- [The principle of deep learning: an effective theory approach to understanding neural network](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2106.10165.pdf) 
-- [Theory of Deep Learning] Princeton Lectures
+- [The principle of deep learning: an effective theory approach to understanding neural network](https://arxiv.org/abs/2106.10165) 
+- [Theory of Deep Learning](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf) Princeton Lectures
 
 
 
