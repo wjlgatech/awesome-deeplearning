@@ -1,5 +1,11 @@
 # awesome-deeplearning
 
+## Objectives
+I aim to make everythings here TRUE:
+- Executable with code
+- Understandable with *just enough* context and examples
+- Reusable with simple & clear API (e.g. function, class, package)
+- Transferable to another field, using best practices in graph ML and  ADEPT thinking= Analogy+Diagram+Example+PlainStorytelling+TechnicalAbstraction
 
 ## books and papers
 - [A visual intro to deep learning](https://kdimensions.gumroad.com/l/visualdl)
@@ -7,12 +13,10 @@
 - [Theory of Deep Learning](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf) Princeton Lectures
 
 
+**Also Checkout**
+
+- Awesome-SoftwareEngineering
+- Awesome-ReinforcementLearning
+- Awesome-SQL
 
 
-**Highly Relevant Sites**
-
-### Awesome-SoftwareEngineering
-- [Software Engineering at Google](https://abseil.io/resources/swe-book)
-
-### Awesome-ReinforcementLearning
-- []()
