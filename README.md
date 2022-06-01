@@ -7,6 +7,13 @@ I aim to make everything here **TRUE**:
 - **R**eusable and **R**eproducible with simple & clear API (e.g. in the form of Python function, class, package)
 - **T**ransferable and **T**ransformable to another domain and dimension, using best practices in graph ML and  ADEPT thinking= Analogy+Diagram+Example+PlainStorytelling+TechnicalAbstraction
 
+### Also Checkout
+- [Awesome-deeplearning](https://github.com/wjlgatech/awesome-deeplearning)
+- [Awesome-Software-Engineering](https://github.com/wjlgatech/awesome-software-engineering)
+- [Awesome-ReinforcementLearning](https://github.com/wjlgatech/awesome-reinforcementLearning)
+- [Awesome-SQL](https://github.com/wjlgatech/awesome-sql)
+- [Aweseome-Interview](https://github.com/wjlgatech/awesome-interview)
+
 ## Priority reading
 - [/5] [Towards Learning Universal Hyperparameter Optimizers with Transformers](https://deepai.org/publication/towards-learning-universal-hyperparameter-optimizers-with-transformers)
 - [/5] [A visual intro to deep learning](https://kdimensions.gumroad.com/l/visualdl)
@@ -25,10 +32,4 @@ I aim to make everything here **TRUE**:
 - [Trax](https://github.com/google/trax) by Google, an End to End library for deep learning with clean code & speed.
 
 
-## Also Checkout
-- [Awesome-deeplearning](https://github.com/wjlgatech/awesome-deeplearning)
-- [Awesome-Software-Engineering](https://github.com/wjlgatech/awesome-software-engineering)
-- [Awesome-ReinforcementLearning](https://github.com/wjlgatech/awesome-reinforcementLearning)
-- [Awesome-SQL](https://github.com/wjlgatech/awesome-sql)
-- [Aweseome-Interview](https://github.com/wjlgatech/awesome-interview)
 
