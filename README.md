@@ -13,6 +13,7 @@ I aim to make everythings here TRUE:
 - [/5] [The principle of deep learning: an effective theory approach to understanding neural network](https://arxiv.org/abs/2106.10165) 
 - [/5] [Theory of Deep Learning](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf) Princeton Lectures
 
+- [/5] [Multimodel: One model to learn them all](https://arxiv.org/abs/1706.05137)
 
 **Also Checkout**
 
@@ -20,4 +21,6 @@ I aim to make everythings here TRUE:
 - Awesome-ReinforcementLearning
 - Awesome-SQL
 
+## github
+- [Trax](https://github.com/google/trax) by Google, an End to End library for deep learning with clean code & speed.
 
