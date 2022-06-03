@@ -19,10 +19,11 @@ I aim to make everything here **TRUE**:
 - [/5] [A visual intro to deep learning](https://kdimensions.gumroad.com/l/visualdl)
 - [/5] [The principle of deep learning: an effective theory approach to understanding neural network](https://arxiv.org/abs/2106.10165) 
 - [/5] [Theory of Deep Learning](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf) Princeton Lectures
-
+- [/5] [Alpa: automated model parallel deep learning](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)
 
 ### MultimodalML
 - [/5] [Multimodel: One model to learn them all](https://arxiv.org/abs/1706.05137)
+- [/5] To improve mutimodal-ml signal mix [google AI align image with text with Contrastive Captioner (coca)](https://www.marktechpost.com/2022/05/30/google-ai-proposes-contrastive-captioner-coca-a-novel-encoder-decoder-model-that-simultaneously-produces-aligned-unimodal-image-and-text-embeddings/)
 
 ### CausalML & GraphML
 - [/5] [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107)
