@@ -27,7 +27,7 @@ I aim to make everything here **TRUE**:
 
 ### CausalML & GraphML
 - [/5] [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107)
-
+- [/5] [How does the brain learn mental models? Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps](https://lnkd.in/ep4kKCXu)
 
 ## github
 - [Trax](https://github.com/google/trax) by Google, an End to End library for deep learning with clean code & speed.
