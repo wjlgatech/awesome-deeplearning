@@ -28,6 +28,10 @@ I aim to make everything here **TRUE**:
 ### CausalML & GraphML
 - [/5] [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107)
 - [/5] [How does the brain learn mental models? Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps](https://lnkd.in/ep4kKCXu)
+- [/5][Learning to simulate complex physics with graph networks](https://arxiv.org/abs/2002.09405)
+
+### big or stange ideas
+- [How special relativity can help AI predict the future](https://www.technologyreview.com/2020/08/28/1007770/special-relativity-light-cones-ai-predict-future-causality-medicine/?utm_campaign=site_visitor.unpaid.engagement&utm_source=LinkedIn&utm_medium=tr_social)
 
 ## github
 - [Trax](https://github.com/google/trax) by Google, an End to End library for deep learning with clean code & speed.
