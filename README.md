@@ -21,6 +21,10 @@ I aim to make everything here **TRUE**:
 - [/5] [Theory of Deep Learning](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf) Princeton Lectures
 - [/5] [Alpa: automated model parallel deep learning](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)
 
+
+### Transformer
+- [transformer intro: all you need to know to be dangeous](https://aman.ai/primers/ai/transformers/)
+
 ### MultimodalML
 - [/5] [Multimodel: One model to learn them all](https://arxiv.org/abs/1706.05137)
 - [/5] To improve mutimodal-ml signal mix [google AI align image with text with Contrastive Captioner (coca)](https://www.marktechpost.com/2022/05/30/google-ai-proposes-contrastive-captioner-coca-a-novel-encoder-decoder-model-that-simultaneously-produces-aligned-unimodal-image-and-text-embeddings/)
