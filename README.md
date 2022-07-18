@@ -20,6 +20,7 @@ I aim to make everything here **TRUE**:
 - [/5] [The principle of deep learning: an effective theory approach to understanding neural network](https://arxiv.org/abs/2106.10165) 
 - [/5] [Theory of Deep Learning](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf) Princeton Lectures
 - [/5] [Alpa: automated model parallel deep learning](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)
+- [/5] [Richard Xu: ML learning theory](https://github.com/roboticcam/machine-learning-notes)
 
 
 ### Transformer
