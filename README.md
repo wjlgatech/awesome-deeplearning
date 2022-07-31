@@ -38,6 +38,8 @@ I aim to make everything here **TRUE**:
 ### big or stange ideas
 - [How special relativity can help AI predict the future](https://www.technologyreview.com/2020/08/28/1007770/special-relativity-light-cones-ai-predict-future-causality-medicine/?utm_campaign=site_visitor.unpaid.engagement&utm_source=LinkedIn&utm_medium=tr_social)
 
+- [What are the most important stat ideas in the past 50 years?](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf)
+
 ## github
 - [Trax](https://github.com/google/trax) by Google, an End to End library for deep learning with clean code & speed.
 
