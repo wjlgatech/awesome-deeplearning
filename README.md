@@ -35,6 +35,10 @@ I aim to make everything here **TRUE**:
 - [/5] [How does the brain learn mental models? Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps](https://lnkd.in/ep4kKCXu)
 - [/5][Learning to simulate complex physics with graph networks](https://arxiv.org/abs/2002.09405)
 
+### XAI
+-[2022 Chen et.: Algorithms to estimate Shapley value feature attributions](https://arxiv.org/abs/2207.07605)
+-[2022 Martin et.: Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data](https://www.nature.com/articles/s41467-021-24025-8)
+
 ### big or stange ideas
 - [How special relativity can help AI predict the future](https://www.technologyreview.com/2020/08/28/1007770/special-relativity-light-cones-ai-predict-future-causality-medicine/?utm_campaign=site_visitor.unpaid.engagement&utm_source=LinkedIn&utm_medium=tr_social)
 
